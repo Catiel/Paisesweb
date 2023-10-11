@@ -1,5 +1,6 @@
 <?php
 
+global $pdo;
 include 'php_conexion.php';
 
 // Verificar si se recibió el nombre del país por POST
